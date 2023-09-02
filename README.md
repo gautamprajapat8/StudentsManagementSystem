@@ -24,4 +24,3 @@ Good to Have
 > Swagger integration
 > unit test case for any layer
 > DTO layer and mapping between DTO and entity
-*Incase of any query feel free to reachout to Aashish(aashish@platformcommons.com) or Dibyajit(dibyajit@platformcommons.com)
